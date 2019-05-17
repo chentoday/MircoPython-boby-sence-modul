@@ -9,6 +9,6 @@
 ## 对HC-SR501模块的应用
 - 将*OUT信号输出*接到*bpi:bit*的引脚脚上
 （引脚对应的IO口可以查看[introduce-bpi-bit](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)）
-12
+
 ## 示例代码
 - [sense-modul.py](https://github.com/aJantes/MircoPython-boby-sence-modul/blob/master/sense-modul.py)
