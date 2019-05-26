@@ -2,7 +2,7 @@
 
 - 前提准备：[第一次使用必看](https://github.com/aJantes/Initialize-the-board/blob/master/readme.md)
 - 硬件介绍：
-1. [BPI:bit(ESP32)](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)
+1. [BPI:bit板子](https://github.com/aJantes/introduce-bpi-bit/blob/master/readme.md)
 2. [HC-SR501](https://github.com/aJantes/MircoPython-boby-sence-modul/blob/master/HC-SR501.pdf)
 - 编程工具：[pycharm](https://github.com/aJantes/use-pycharm/blob/master/readme.md)
 
